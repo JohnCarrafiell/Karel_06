@@ -1,7 +1,7 @@
-Karel_05
+Karel_06
 ======
 
-Karel starter code and resources for the Lab05 assignment.
+Karel starter code and resources for the Lab06 assignment.
 
 Instructions:
 * Use the FORK button to create a copy of this code under your personal Github account
